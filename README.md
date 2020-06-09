@@ -158,3 +158,4 @@ Prometheus configuration example where the job pings a single destination (param
       target_label: __address__
       replacement: localhost:8085
 ```
+# nettest
